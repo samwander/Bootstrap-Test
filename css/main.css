@@ -1,0 +1,47 @@
+.navbar {
+    background: rgba(250, 211, 144,0.3);
+    box-shadow: 2px 2px 5px pink;
+    opacity: 0.9;
+}
+
+.navbar .navbar-nav .nav-item .nav-link{
+    color: purple;
+   
+}
+
+.navbar .navbar-nav{ 
+    margin-left: auto;
+}
+
+.navbar .buscador .form-control .btn{
+    margin-left: auto;
+}
+
+.main-header{
+    position: relative;
+    background:url(../img/images\ \(1\).jpg) ;
+    background-size: cover;
+    min-height: 700px;
+}
+
+.background-overlay {
+
+position: absolute;
+    background: rgba(248, 194, 145,0.3);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+ 
+.cambio {
+    background: rgba(246, 185, 59,0.5);
+}
+
+.feature .cambiodecolor .card {
+    background: rgba(250, 211, 144,0.5);
+}
+
+.team {
+    background: rgba(250, 211, 144,0.5);
+}
